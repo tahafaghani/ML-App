@@ -146,7 +146,8 @@ After running the command, you will find the executable in the `dist/` folder in
 dist/
 ├── main.exe
 ```
+### Contact
+If you have any questions or suggestions, feel free to reach out:
 
-## License
-
-This project is open source and free to use under the MIT License.
+- **Taha Faghani** - [taha.faghani.daroopi@gmail.com](mailto:taha.faghani.daroopi@gmail.com)
+- GitHub: [tahafaghani](https://github.com/tahafaghani)
