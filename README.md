@@ -112,8 +112,7 @@ To make it easier for others to run your Python project without needing to insta
 
 
 <p align="center">
-  <img src="https://github.com/tahafaghani/ML-App/blob/main/Exe-GUI.png
-" width="45%" alt="GUI-Exe"/>
+  <img src="https://github.com/tahafaghani/ML-App/blob/main/Exe-GUI.png" width="45%" alt="GUI-Exe"/>
 </p>
 
 
