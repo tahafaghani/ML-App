@@ -110,10 +110,12 @@ The project includes a custom Graphical User Interface (GUI) built with `PyQt5`,
 
 To make it easier for others to run your Python project without needing to install Python and its dependencies, you can create an executable file using `PyInstaller`. Follow these steps:
 
+
 <p align="center">
   <img src="https://github.com/tahafaghani/ML-App/blob/main/Exe-GUI.png
-" width="45%" alt="Segway Model"/>
+" width="45%" alt="GUI-Exe"/>
 </p>
+
 
 ### Step 1: Install PyInstaller
 
