@@ -1,8 +1,8 @@
 
 # AI Final Project
 
-## Author: Taha Faghani (99542321)
-### Instructor: Dr. Salehi
+## Author: Taha Faghani 
+
 
 This repository contains the final project for the AI course, focusing on applying various machine learning models to classify and analyze a given dataset (e.g., churn prediction). The project includes multiple algorithms implemented in Python using popular libraries such as `scikit-learn`, `matplotlib`, and `pandas`.
 
